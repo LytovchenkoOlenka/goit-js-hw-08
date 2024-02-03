@@ -18,9 +18,12 @@
   cursor: pointer;
 }
 
+.gallery-image:hover{
+  transform: scale(1.03);
+}
+
 .gallery-image {
   display: block;
   width: 100%;
   height: 100%;
-
-} 
+}
